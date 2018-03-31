@@ -1,0 +1,49 @@
+.img-responsive {
+	max-width: 50%;
+}
+
+.navbar-nav {
+	padding-top: 32px;
+	font-size: 18px;
+
+	color: #777;
+	font-weight: bold;
+}
+
+h3 {
+	text-align: center;
+}
+
+.thumbnail img {
+    height: 180px;
+    width: 300px;
+}
+.col1 {
+	padding-bottom: 24px;
+}
+h5 {
+	color:  #c3d600;
+}
+
+}
+.carousel-inner {
+	overflow: hidden;
+	overflow-wrap: auto;
+}
+item active {
+	height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+}
+.stretch{
+	width: 100%;
+	
+}
+footer {
+	background-color: #001d60;
+}
+.call {
+	color: white;
+}
